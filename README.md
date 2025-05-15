@@ -1,7 +1,4 @@
-[{
-  "_id": {
-    "$oid": "682498aa2ce98937826c4bd1"
-  },
-  "Nama": "Lismawati",
-  "Kelas": "Inf E"
-}]
+nama : Lismawati
+Nim  : D02222037
+Kelas: Inf B
+Nama DataBase : Mahasiswa
